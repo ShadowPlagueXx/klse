@@ -1,3 +1,5 @@
+# A Smol' Task
+
 Simple program to return all target stocks data from the star website. Still a WIP, will have more features in future.
 For now, just run the program and a csv file will be created.
 
