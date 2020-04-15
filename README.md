@@ -4,3 +4,9 @@ Simple program to return all target stocks data from the star website. Still a W
 For now, just run the program and a csv file will be created.
 
 It will overwrite previous data in csv, I am working on fixing it but please dont accidentally write over your old data.
+
+you will need these modules:
+- pathlib
+- pandas
+- bs4
+- requests
